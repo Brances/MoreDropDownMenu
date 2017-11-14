@@ -10,6 +10,7 @@
 		4086FACF1FBA7FB400B59930 /* MoreDropDownMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 4086FACC1FBA7FB400B59930 /* MoreDropDownMenu.m */; };
 		4086FAD01FBA7FB400B59930 /* MoreDropDownMenuRowCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4086FACE1FBA7FB400B59930 /* MoreDropDownMenuRowCell.m */; };
 		4086FAD61FBA83CA00B59930 /* NSArray+ZMAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 4086FAD51FBA83CA00B59930 /* NSArray+ZMAdd.m */; };
+		4086FADA1FBA9CB800B59930 /* MoreDropDownMenuGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4086FAD91FBA9CB800B59930 /* MoreDropDownMenuGif.gif */; };
 		40D7F7FD1FBA7B1F00E20911 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 40D7F7FC1FBA7B1F00E20911 /* main.m */; };
 		40D7F8001FBA7B1F00E20911 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 40D7F7FF1FBA7B1F00E20911 /* AppDelegate.m */; };
 		40D7F8031FBA7B1F00E20911 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 40D7F8021FBA7B1F00E20911 /* ViewController.m */; };
@@ -46,6 +47,7 @@
 		4086FAD21FBA823400B59930 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		4086FAD41FBA83CA00B59930 /* NSArray+ZMAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+ZMAdd.h"; sourceTree = "<group>"; };
 		4086FAD51FBA83CA00B59930 /* NSArray+ZMAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+ZMAdd.m"; sourceTree = "<group>"; };
+		4086FAD91FBA9CB800B59930 /* MoreDropDownMenuGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = MoreDropDownMenuGif.gif; sourceTree = "<group>"; };
 		40D7F7F81FBA7B1F00E20911 /* MoreDropDownMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoreDropDownMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40D7F7FC1FBA7B1F00E20911 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		40D7F7FE1FBA7B1F00E20911 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 		40D7F7FB1FBA7B1F00E20911 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4086FAD91FBA9CB800B59930 /* MoreDropDownMenuGif.gif */,
 				40D7F80C1FBA7B1F00E20911 /* Info.plist */,
 				40D7F8041FBA7B1F00E20911 /* Main.storyboard */,
 				40D7F8071FBA7B1F00E20911 /* Assets.xcassets */,
@@ -306,6 +309,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4086FADA1FBA9CB800B59930 /* MoreDropDownMenuGif.gif in Resources */,
 				40D7F8081FBA7B1F00E20911 /* Assets.xcassets in Resources */,
 				40D7F8061FBA7B1F00E20911 /* Main.storyboard in Resources */,
 			);
